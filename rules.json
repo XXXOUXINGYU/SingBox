@@ -3,7 +3,14 @@
   "rules": [
     {
       "domain_suffix": [
-        "yingdao.com"
+        "yingdao.com",
+        "winrobot360.com", 
+        "feishu.cn", 
+        "quark.cn", 
+        "thpmg.com.cn", 
+        "huatools.com", 
+        "aliyuncs.com", 
+        "qq.com"
       ]
     }
   ]
