@@ -46,22 +46,6 @@
                     ".wxapp.tc.qq.com",
                     ".wxs.qq.com",
                     ".yun-hl.3g.qq.com"
-               ],
-               "domain": [
-                    "apd-pcdnwxlogin.teg.tencent-cloud.net",
-                    "btrace.qq.com",
-                    "dldir1.qq.com",
-                    "slife.xy-asia.com",
-                    "soup.v.qq.com",
-                    "vweixinf.tc.qq.com",
-                    "weixin110.qq.com",
-                    "wup.imtt.qq.com"
-               ],
-               "process_name": [
-                    "Feishu.exe",
-                    "WeChat.exe",
-                    "WeChatAppEx.exe",
-                    "Weixin.exe"
                ]
           }
      ]
