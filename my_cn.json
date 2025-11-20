@@ -56,10 +56,6 @@
                     "weixin110.qq.com",
                     "wup.imtt.qq.com"
                ],
-               "rule_set_build_in": [
-                    "geosite:feishu",
-                    "acl:Wechat"
-               ],
                "process_name": [
                     "Feishu.exe",
                     "WeChat.exe",
