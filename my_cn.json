@@ -1,30 +1,61 @@
 {
-  "version": 1,
-  "rules": [
-    {
-      "domain_suffix": [
-        "yingdao.com",
-        "winrobot360.com", 
-        "feishu.cn", 
-        "quark.cn", 
-        "thpmg.com.cn", 
-        "huatools.com", 
-        "aliyuncs.com", 
-        "qq.com",
-        "ciding.cc",
-        "feishu.cn",
-        "zongdaoyun.com",
-        "alimama.com",
-        "jinritemai.com",
-        "taobao.com",
-        "tmall.com",
-        "alicdn.com",
-        "spidertools.cn",
-        "erp321.com",
-        "tianyancha.com",
-        "yuque.com",
-        "west.cn"
-      ]
-    }
-  ]
+     "version": 1,
+     "rules": [
+          {
+               "domain_suffix": [
+                    "yingdao.com",
+                    "winrobot360.com",
+                    "feishu.cn",
+                    "quark.cn",
+                    "thpmg.com.cn",
+                    "huatools.com",
+                    "aliyuncs.com",
+                    "qq.com",
+                    "ciding.cc",
+                    "feishu.cn",
+                    "zongdaoyun.com",
+                    "alimama.com",
+                    "jinritemai.com",
+                    "taobao.com",
+                    "tmall.com",
+                    "alicdn.com",
+                    "spidertools.cn",
+                    "erp321.com",
+                    "tianyancha.com",
+                    "yuque.com",
+                    "west.cn",
+                    ".lbs.gtimg.com",
+                    ".map.qq.com",
+                    ".qlogo.cn",
+                    ".qpic.cn",
+                    ".servicewechat.com",
+                    ".tenpay.com",
+                    ".up-hl.3g.qq.com",
+                    ".vweixinthumb.tc.qq.com",
+                    ".wechat.com",
+                    ".wechatlegal.net",
+                    ".wechatos.net",
+                    ".wechatpay.com",
+                    ".weixin.com",
+                    ".weixin.qq.com",
+                    ".weixinbridge.com",
+                    ".weixinsxy.com",
+                    ".wx.gtimg.com",
+                    ".wx.qq.com",
+                    ".wxapp.tc.qq.com",
+                    ".wxs.qq.com",
+                    ".yun-hl.3g.qq.com"
+               ],
+               "domain": [
+                    "apd-pcdnwxlogin.teg.tencent-cloud.net",
+                    "btrace.qq.com",
+                    "dldir1.qq.com",
+                    "slife.xy-asia.com",
+                    "soup.v.qq.com",
+                    "vweixinf.tc.qq.com",
+                    "weixin110.qq.com",
+                    "wup.imtt.qq.com"
+               ]
+          }
+     ]
 }
