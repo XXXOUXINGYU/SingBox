@@ -55,6 +55,19 @@
                     "vweixinf.tc.qq.com",
                     "weixin110.qq.com",
                     "wup.imtt.qq.com"
+               ],
+               "rule_set": [
+                    "https://raw.githubusercontent.com/Toperlock/sing-box-geosite/main/wechat.json"
+               ],
+               "rule_set_build_in": [
+                    "geosite:feishu",
+                    "acl:Wechat"
+               ],
+               "process_name": [
+                    "Feishu.exe",
+                    "WeChat.exe",
+                    "WeChatAppEx.exe",
+                    "Weixin.exe"
                ]
           }
      ]
