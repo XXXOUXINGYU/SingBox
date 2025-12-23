@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "process_name": [
+        "Antigravity",
+        "Antigravity.app",
+        "language_server_macos_arm",
+        "com.google.antigravity",
+        "com.google.antigravity.helper"
+      ]
+    }
+  ]
+}
