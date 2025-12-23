@@ -2,12 +2,16 @@
   "version": 1,
   "rules": [
     {
-      "process_name": [
-        "Antigravity",
-        "Antigravity.app",
-        "language_server_macos_arm",
-        "com.google.antigravity",
-        "com.google.antigravity.helper"
+      "domain_keyword": [
+        "antigravity"
+      ],
+      "domain_suffix": [
+        "antigravity.dev",
+        "antigravity.app",
+        "googleapis.com",
+        "googleusercontent.com",
+        "accounts.google.com",
+        "googlesource.com"
       ]
     }
   ]
